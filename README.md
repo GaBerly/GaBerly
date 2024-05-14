@@ -1,6 +1,6 @@
 **_✨✨WELCOME!✨✨_** -
 
-- ❉ I’m **_@GaBerly_** (or Gabe) -
+- ❉ I’m **_@GaBerly_** (or Gabi) -
 ❉ I’m interested in **Games** -
 ❉ I’m currently learning **coding** -
 ❉Pronouns:**She/Her** -
