@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @GaBerly (or Gabe)
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning coding
-- 😄 Pronouns:She/Her
+**_✨✨WELCOME!✨✨_**
+
+❉ I’m **_@GaBerly_** (or Gabe)
+❉ I’m interested in **Games**
+❉ I’m currently learning **coding**
+❉Pronouns:**She/Her**
+❉I'm currently studying on **Alura**
 
 <!---
 GaBerly/GaBerly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
